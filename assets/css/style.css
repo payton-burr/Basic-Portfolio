@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image: url(../images/white-waves.png);
+    margin: 0;
+    padding: 0;
+    color: #777777
+}
+nav {
+    background-color: #fff;
+    border: 1px solid #cccccc;
+}
